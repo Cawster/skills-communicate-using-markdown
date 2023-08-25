@@ -5,3 +5,6 @@ I added a new header and enlarged it.
 ``` javascript
 var Dog = "this is interesting";
 ```
+- [x] Turn in homework
+- [ ] get over cold
+- [ ] enjoy the weekend
